@@ -19,7 +19,5 @@
             "Sphinx": "src"
         }
     },
-    "version": "2.1.0",
-    "minimum-stability": "stable",
-    "prefer-stable": true
+    "version": "2.1.0"
 }
