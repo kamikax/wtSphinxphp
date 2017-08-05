@@ -1,0 +1,22 @@
+{
+    "name": "kamikax/wtsphinxphp",
+    "type": "library",
+    "description": "Sphinx Search PHP 5.3+ API with PSR compliance / old version string filter recovery",
+    "keywords": ["sphinx","search","api"],
+    "homepage": "https://github.com/kamikax/wtsphinxphp",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Andrew Aksyonoff - kamik",
+            "homepage": "https://github.com/kamikax/wtsphinxphp"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Sphinx": "src"
+        }
+    }
+}
